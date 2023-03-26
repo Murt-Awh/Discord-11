@@ -1,4 +1,3 @@
-/* ==UserStyle==
 @name           Discord 11
 @namespace      github.com/zuzumi-f/Discord-11
 @version        2.4.0
@@ -17,7 +16,6 @@
 @var number   hueAmount        "Hue amount" [199, 0, 239, 1]
 @var range    saturationAmount "Saturation amount" [100, 0, 100, 1, '%']
 @var range    lightnessAmount  "Lightness amount" [69, 0, 100, 1, '%']
-==/UserStyle== */
 
 @-moz-document regexp("https?:\\/\\/(canary\\.)?discord.com/.*") {
     /* Theme base */
